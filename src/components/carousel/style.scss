@@ -29,9 +29,11 @@
     }
     .carouselLeftNav {
         left: 30px;
+        background: linear-gradient(to right ,rgb(13, 232, 170) ,rgb(61, 149, 186));
     }
     .carouselRightNav {
         right: 30px;
+        background: linear-gradient(to right ,rgb(13, 232, 170) ,rgb(61, 149, 186));
     }
     .loadingSkeleton {
         display: flex;
